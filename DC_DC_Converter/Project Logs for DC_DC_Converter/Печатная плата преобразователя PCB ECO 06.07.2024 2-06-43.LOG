@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=XP1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=XP1-2
+Removed Pin From Net: NetName=GND Pin=XP2-1
+Removed Pin From Net: NetName=NetC5_1 Pin=XP2-2
+Change Component Footprint: Designator=L1 Old Footprint=SRR0604 New Footprint=VLS6045
+Change Component Comment : Designator=L1 Old Comment=Чип-индуктивность SRR0604-6R8ML (6,8мкГн±20% 1.6A) New Comment=Дроссель VLS6045EX-220M 22мкГн±20% 1,9А
+Added Component: Designator=1(Cont_point)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "SPS0014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Контактная площадка"; VariantName = "[No Variations]"
+Added Component: Designator=2(Cont_point)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "SPS0014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Контактная площадка"; VariantName = "[No Variations]"
+Added Component: Designator=3(Cont_point)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "SPS0014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Контактная площадка"; VariantName = "[No Variations]"
+Added Component: Designator=4(Cont_point)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "SPS0014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Контактная площадка"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=1-1
+Added Pin To Net: NetName=GND Pin=2-1
+Added Pin To Net: NetName=NetC5_1 Pin=3-1
+Added Pin To Net: NetName=GND Pin=4-1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=Net1_1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=Net3_1
+Added Member To Class: ClassName=Схема преобразователя Member=Component 1 Контактная площадка
+Added Member To Class: ClassName=Схема преобразователя Member=Component 2 Контактная площадка
+Added Member To Class: ClassName=Схема преобразователя Member=Component 3 Контактная площадка
+Added Member To Class: ClassName=Схема преобразователя Member=Component 4 Контактная площадка
+Added Room: Name=Схема преобразователя

@@ -1,0 +1,204 @@
+Removed Pin From Net: NetName=GND Pin=2-1
+Removed Pin From Net: NetName=GND Pin=4-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Change Component DesignItemId : Designator=C4 Old DesignItemId=C0009 New DesignItemId=C0038
+Change Component DesignItemId : Designator=R2 Old DesignItemId=R0206 New DesignItemId=R0094
+Change Component DesignItemId : Designator=R1 Old DesignItemId=R0206 New DesignItemId=R0236
+Change Component DesignItemId : Designator=R3 Old DesignItemId=R0238 New DesignItemId=R0215
+Change Component DesignItemId : Designator=R4 Old DesignItemId=R0240 New DesignItemId=R0091
+Change Component DesignItemId : Designator=RP1 Old DesignItemId=RA0004 New DesignItemId=RA0003
+Change Component Footprint: Designator=C4 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=R1 Old Footprint=R0805 New Footprint=R0603
+Change Component Footprint: Designator=R2 Old Footprint=R0805 New Footprint=R0603
+Change Component Footprint: Designator=RP1 Old Footprint=R_adj_3314J New Footprint=3296W
+Change Component Comment : Designator=R3 Old Comment=0603-13,0 кОм±1% SMD -60°C ~ 155°C New Comment=0603-1,2 кОм±5% SMD -60°C ~ 155°C
+Change Component Comment : Designator=R4 Old Comment=0603-47,5 кОм±1% SMD -60°C ~ 155°C New Comment=0603-24 кОм±5% SMD -60°C ~ 155°C
+Change Component Comment : Designator=R2 Old Comment=0805-62,0 Ом±1% SMD -55°C ~ 155°C New Comment=0603-6,81 кОм±1% SMD -60°C ~ 155°C
+Change Component Comment : Designator=R1 Old Comment=0805-62,0 Ом±1% SMD -55°C ~ 155°C New Comment=0603-100 кОм±5% SMD -60°C ~ 155°C
+Change Component Comment : Designator=C4 Old Comment=К10-47Мв - 2012М-50В-0,01 мкФ±20%-Н20-N (Монолит) SMD 0805-0,01мкФ±20% 50В Н20. -60°C ~ 125°C New Comment=GRM188R71H103KA01 (Murata) SMD 0603-0,01мкФ±10% 50В X7R. -55°C ~ 125°C
+Change Component Comment : Designator=RP1 Old Comment=Резистор 3314J-1-103E New Comment=Резистор 3296W-1-202LF
+Change Component Description : Designator=C4 Old Description=0805, 0,01мк, ±20%, 50В, Н20 New Description=0603, 0,01мк, ±10%, 50В, X7R
+Change Component Description : Designator=R1 Old Description=Общего применения, 1% New Description=Общего применения, 5%
+Change Component Description : Designator=R3 Old Description=Общего применения, 1% New Description=Общего применения, 5%
+Change Component Description : Designator=R4 Old Description=Общего применения, 1% New Description=Общего применения, 5%
+Change Component Description : Designator=RP1 Old Description=Резистор подстроечный 10к 0.25Вт Bourns New Description=Резистор подстроечный многооборотный 10к 0.5Вт Bourns
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0805"; UniqueID = "\XKYHVJKM" ("\XKYHVJKM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Параметры конденсатора (Murata)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "D:/AltiumDoc/Library/Datasheets/Murata/GRM188R71H103KA01_.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Сайт производителя"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.murata.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Страница поставщика (Чип и Дип)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.chipdip.ru/product/grm188r71h103k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Описание конденсатора на сайте производителя (Murata)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.murata.com/en-eu/products/productdetail?partno=GRM188R71H103KA01%23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "C0038"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "GRM188R71H103KA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name_for_setter"; Value = "0603-0,01мк±10%/50В--GRM188R71H103KA01 *** SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power/Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rem"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TKE"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0,01мк"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ВП/ОТК"; Value = "Импорт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип расширенный"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип элемента"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R0805"; UniqueID = "\KOYFSZPG" ("\KOYFSZPG")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Параметры резисторов серии Р1-12 ОТК (0.1Вт, АО "Ресурс")"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "D:/AltiumDoc/Library/Datasheets/Resurs/R1_12-SHKAB.434110.024TU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Сайт производителя"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://aoresurs.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Протокол цены"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "D:/AltiumDoc/Library/Datasheets/Resurs/preiskurant_Р1-12 ШКАБ.434110.024 ТУ.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "Страница на сайте производителя"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://aoresurs.com/catalog/chip_rezistory/rezistory-r1-12-priemka-otk/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "3,4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "R0236"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ресурс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "Р1-12-0,1-100 кОм±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name_for_setter"; Value = "0603-100к±5%/0,1Вт--Р1-12-0,1-100 кОм±5% *** SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-60°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power/Voltage"; Value = "0,1Вт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rem"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TKE"; Value = "±100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100к"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ВП/ОТК"; Value = "ОТК"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ОКП"; Value = "601000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип расширенный"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип элемента"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТУ"; Value = "ШКАБ.434110.024 ТУ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R0805"; UniqueID = "\LKDWAHGT" ("\LKDWAHGT")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Параметры резисторов серии Р1-8В (0.1Вт, Эркон)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "D:/AltiumDoc/Library/Datasheets/Erkon/Resistors/r1_8v.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Сайт производителя"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.erkon-nn.ru/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Протокол цены"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "D:/AltiumDoc/Library/Datasheets/Erkon/Resistors/Protokol_tsen_R1-8V.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "9,24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "R0094"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ЭРКОН"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "Р1-8В-0,1-6,81 кОм±1%-Т-А-М"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name_for_setter"; Value = "0603-6,81к±1%/0,1Вт--Р1-8В-0,1-6,81 кОм±1%-Т-А-М *** SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-60°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power/Voltage"; Value = "0,1Вт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rem"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TKE"; Value = "±250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "6,81к"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ВП/ОТК"; Value = "ВП"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ОКП"; Value = "601000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип расширенный"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип элемента"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТУ"; Value = "ОЖ0.467.164 ТУ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R0603"; UniqueID = "\NATZDYDM" ("\NATZDYDM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Параметры резисторов серии Р1-12 ОТК (0.1Вт, АО "Ресурс")"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "D:/AltiumDoc/Library/Datasheets/Resurs/R1_12-SHKAB.434110.024TU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Сайт производителя"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://aoresurs.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Протокол цены"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "D:/AltiumDoc/Library/Datasheets/Resurs/preiskurant_Р1-12 ШКАБ.434110.024 ТУ.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "Страница на сайте производителя"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://aoresurs.com/catalog/chip_rezistory/rezistory-r1-12-priemka-otk/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "3,4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "R0215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ресурс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "Р1-12-0,1-1,2 кОм±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name_for_setter"; Value = "0603-1,2к±5%/0,1Вт--Р1-12-0,1-1,2 кОм±5% *** SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-60°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power/Voltage"; Value = "0,1Вт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rem"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TKE"; Value = "±100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1,2к"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ВП/ОТК"; Value = "ОТК"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ОКП"; Value = "601000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип расширенный"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип элемента"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТУ"; Value = "ШКАБ.434110.024 ТУ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R0603"; UniqueID = "\DKDBGZQG" ("\DKDBGZQG")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Параметры резисторов серии Р1-8В (0.1Вт, Эркон)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "D:/AltiumDoc/Library/Datasheets/Erkon/Resistors/r1_8v.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Сайт производителя"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.erkon-nn.ru/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "Протокол цены"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "D:/AltiumDoc/Library/Datasheets/Erkon/Resistors/Protokol_tsen_R1-8V.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "9,24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "R0091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ЭРКОН"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "Р1-8В-0,1-24 кОм±5%-Т-А-М"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name_for_setter"; Value = "0603-24к±5%/0,1Вт--Р1-8В-0,1-24 кОм±5%-Т-А-М *** SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-60°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power/Voltage"; Value = "0,1Вт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rem"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TKE"; Value = "±250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "24к"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ВП/ОТК"; Value = "ВП"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ОКП"; Value = "601000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип расширенный"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип элемента"; Value = "Резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТУ"; Value = "ОЖ0.467.164 ТУ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RP1" ("RP1"); Footprint = "R_adj_3314J"; UniqueID = "\RIXZEFWM" ("\RIXZEFWM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Описание многооборотного резистора (Bourns)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "D:/AltiumDoc/Library/Datasheets/Bourns/Resistors_3296-series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Сайт производителя"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.bourns.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Страница поставщика (Чип и Дип)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.chipdip.ru/product/3296w-1-202"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "60"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIR"; Value = "DIR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "RA0003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "3296W-1-202LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name_for_setter"; Value = "3296W-1-202LF *** DIR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-65°C ~ 150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power/Voltage"; Value = "0.5Вт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rem"; Value = "ADJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10к"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ВП/ОТК"; Value = "Импорт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Корпус"; Value = "3296W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип расширенный"; Value = "Резистор подстроечный многооборотный"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Тип элемента"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=BR?(BREAK_GND)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "SPS0002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Специальный символ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BR?-2
+Change Net Name : Old Net Name=GND New Net Name=NetBR?_2
+Added Pin To Net: NetName=GND_IC Pin=BR?-1
+Added Net: Name=GND_IC
+Added Pin To Net: NetName=GND Pin=2-1
+Added Pin To Net: NetName=GND Pin=4-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Net: Name=GND
+Added Member To Class: ClassName=Схема преобразователя Member=Component BR? Соединение цепей
+Added Room: Name=Схема преобразователя
