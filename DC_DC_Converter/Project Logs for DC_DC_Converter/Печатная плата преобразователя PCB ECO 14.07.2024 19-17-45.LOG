@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=BR1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Change Component Designator: OldDesignator=2 NewDesignator=4
+Change Component Designator: OldDesignator=4 NewDesignator=2
+Added Pin To Net: NetName=power_GND Pin=BR1-1
+Added Pin To Net: NetName=power_GND Pin=C1-2
+Added Net: Name=power_GND
+Added Member To Class: ClassName=Схема преобразователя Member=Component 4 Контактная площадка
+Added Room: Name=Схема преобразователя
