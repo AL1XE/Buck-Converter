@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=DA1-9
+Added Component: Designator=BR1(BREAK_GND)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "SPS0002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Специальный символ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BR1-1
+Added Pin To Net: NetName=PGND Pin=BR1-2
+Added Member To Class: ClassName=Схема преобразователя Member=Component BR1 Соединение цепей
+Added Room: Name=Схема преобразователя
